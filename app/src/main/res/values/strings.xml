@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nike1">Nike Air Max 270 React ENG</string>
+    <string name="nike2">Nike Air Max 270 React ENG</string>
+    <string name="nike3">Nike Air Max 270 React ENG</string>
+    <string name="nike4">Nike Air Max 270 React ENG</string>
+    <string name="nike5">Nike Air Max 270 React ENG</string>
+    <string name="nike6">Nike Air Max 270 React ENG</string>
+    <string name="Result">145 Result</string>
+    <string name="example">Nike Air Max</string>
+    <string name="Name">Man Shoes</string>
+</resources>
