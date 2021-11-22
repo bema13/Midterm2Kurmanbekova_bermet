@@ -9,4 +9,7 @@
     <string name="Result">145 Result</string>
     <string name="example">Nike Air Max</string>
     <string name="Name">Man Shoes</string>
+    <string name="prise1">$299,43</string>
+    <string name="oldprise1">$534,33</string>
+    <string name="sale1">24% Off</string>
 </resources>
